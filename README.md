@@ -74,7 +74,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/fastapi-template.git
+git clone [https://github.com/yourusername/fastapi-template.git](https://github.com/hankerbiao/Fastapi-Simple-template.git)
 cd fastapi-template
 
 # 创建并激活虚拟环境
